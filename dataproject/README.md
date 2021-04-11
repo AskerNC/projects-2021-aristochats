@@ -1,6 +1,6 @@
 # Data analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Our project is titled **Unemployment in different countries and age cohorts** 
 
 The **results** of the project can be seen from running [Dataproject_done1.ipynb](https://github.com/NumEconCopenhagen/projects-2021-aristochats/blob/b3ba6582ef2ec38839ac22139befc6fdfcb812f4/dataproject/Dataproject_done1.ipynb).
 
