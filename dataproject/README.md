@@ -2,7 +2,9 @@
 
 Our project is titled **Unemployment in different countries and age cohorts** 
 
-The **results** of the project can be seen from running [Dataproject_done1.ipynb](https://github.com/NumEconCopenhagen/projects-2021-aristochats/blob/b3ba6582ef2ec38839ac22139befc6fdfcb812f4/dataproject/Dataproject_done1.ipynb).
+The **results** of the project can be seen from running [Dataproject_corrected.ipynb](
+https://github.com/NumEconCopenhagen/projects-2021-aristochats/blob/9b94cffe16f9538eedd7669c75af68aada456cf6/dataproject/Dataproject_corrected.ipynb).
+
 
 This **loades two datasets**:
 
